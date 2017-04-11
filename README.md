@@ -9,4 +9,4 @@ This was a quick work i didn't validate nor optmize all data and variables.
 
 Here is a video tutorial explaining how to use this files: https://youtu.be/Jr98BOamcGo
 
-There is an easier way to create contact on Mautic via form submissions instead of Mautic API. I will create a video showing how when I get some time.
+There is an easier way to create contact on Mautic via form submissions instead of Mautic API. I will create a video showing how when I get some time. i included a new file called webhook-forms.php that uses Mautic forms.
