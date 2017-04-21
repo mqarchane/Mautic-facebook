@@ -69,7 +69,7 @@ if($lead_email){
   curl_close($ch);
   return $response;
 
-  echo "Contact Added!"
+  echo "Contact Added!";
   //print_r($response); 
 
 } // end valid lead check
